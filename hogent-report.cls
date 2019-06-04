@@ -16,7 +16,7 @@
 %   CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
 %===============================================================================
 
-\ProvidesClass{hogent-report}[2019/01/09 Bachelorproef HOGENT toegepaste informatica]
+\ProvidesClass{hogent-report}[2019/01/09 Rapport HOGENT toegepaste informatica]
 \NeedsTeXFormat{LaTeX2e}
 
 % Overerven van de ``book''-klasse
@@ -75,10 +75,6 @@
 
 \RequirePackage{xcolor}
 
-% Bepaal de hoofdkleur doorheen heel het document
-\definecolor{maincolor}{RGB}{0,147,208}
-% 0, 147, 208 = officiële kleur HoGent FBO
-
 % HOGENT huisstijlkleuren
 % Bron: https://hnet.hogent.be/themas/communicatie/huisstijl-logo-s-en-sjablonen/kleurgebruik/
 \definecolor{hgdarkgreen}{RGB}{22,176,165}
@@ -91,6 +87,9 @@
 \definecolor{hgbrown}{RGB}{216,176,131}
 \definecolor{hggrey}{RGB}{195,187,175}
 \definecolor{hgyellow}{RGB}{244,222,0}
+
+% Bepaal de hoofdkleur doorheen heel het document
+\definecolor{maincolor}{RGB}{76,162,213}
 
 %-------------------------------------------------------------------------------
 % Inhoudstafel
