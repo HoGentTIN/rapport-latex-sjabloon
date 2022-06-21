@@ -1,5 +1,7 @@
 # HOGENT sjabloon rapport/verslag
 
+**Dit sjabloon wordt niet meer onderhouden. Je vindt een nieuwer sjabloon dat is aangepast aan de HOGENT huisstijl op <https://github.com/HoGentTIN/hogent-latex-report>**
+
 Deze repository bevat een LaTeX stijlsjabloon voor de opmaak van een verslag, rapport of ander lang document dat de HOGENT huisstijl, zoals ingevoerd in 2019, volgt.
 
 ## Titelpagina
